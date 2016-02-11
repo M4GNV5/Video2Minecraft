@@ -1,0 +1,9 @@
+{
+	"name": "Video2Minecraft",
+	"version": "0.0.1",
+	"description": "Convert videos frame by frame to pixel artworks in minecraft",
+	"main": "main.js",
+	"dependencies": {
+		"jpeg-js": ">=0.1.1"
+	}
+}
